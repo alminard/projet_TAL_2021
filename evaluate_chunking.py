@@ -14,11 +14,6 @@ for line in f :
     line = line.rstrip()
     if "\t" in line:
         elt = line.split("\t")
-        #if "_" in elt[1] and "_" in elt[2]:
-        #    elt_t = elt[1].split("_")
-        #    t = elt_t[1]+"-"+elt_t[0]
-        #    elt_p = elt[2].split("_")
-        #    p = elt_p[1]+"-"+elt_p[0]
         t = elt[1]
         p = elt[2]
         t = t.replace("L-", "E-").replace("U-","S-")
