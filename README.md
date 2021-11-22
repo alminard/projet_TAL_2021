@@ -1,3 +1,3 @@
 # projet_TAL_2021
  
-Dans ce répertoire Github je vais mettre à disposition des scripts permettant l'évaluation d'annotation automatique (par exemple sentiment analysis ou NER.
+Dans ce répertoire Github je mets à disposition un scripts permettant l'évaluation d'annotation automatique en utilisant seqeval.
