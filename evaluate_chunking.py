@@ -1,5 +1,5 @@
 #python evaluate_chunking.py file.conll
-#evaluation of automatic chunking (semoral tool)
+#evaluation of automatic chunking (segcor tool)
 #file format : token \t ref \t sys
 #ref and sys follow the BILOU annotation format
 #seqeval : https://github.com/chakki-works/seqeval
